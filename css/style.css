@@ -1,7 +1,7 @@
 /* font-family: 'Forum', cursive; */
 /* font-family: 'Bellefair', serif; */
 
-.navbar{
+.navbar, h5, p{
     /* font-family: 'Forum', cursive; */
     font-family: 'Bellefair', serif;
     color: white;
@@ -17,4 +17,9 @@
 
 #nav-logo{
     margin-right: 10px;
+}
+
+.dropdown-item:hover{
+    background-color: #262626;
+    color: white
 }
